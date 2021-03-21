@@ -1,6 +1,6 @@
 # upimage
 
-A new Flutter project.
+Upload photo and images with Flutter.
 
 ## Getting Started
 
